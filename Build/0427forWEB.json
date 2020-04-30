@@ -1,9 +1,9 @@
 {
 "companyName": "KEIOuniv",
 "productName": "0428forweb",
-"dataUrl": "0428forWEB.data.unityweb",
-"wasmCodeUrl": "0428forWEB.wasm.code.unityweb",
-"wasmFrameworkUrl": "0428forWEB.wasm.framework.unityweb",
+"dataUrl": "0427forWEB.data.unityweb",
+"wasmCodeUrl": "0427forWEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "0427forWEB.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
